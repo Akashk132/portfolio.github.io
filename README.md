@@ -26,24 +26,22 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/your-github-Akashk132)
 
-## Waste Management
+### 🎯 *Topic:* 
 
-<dl>
-<dt>Course Name:Algorithms Lab</dt>
-<dd>Data Structure And Algorithmic </dd>
-<dt>Course Code:24ECSP205</dt>
-<dd>Course Code Placeholder</dd>
-<dt>Name</dt>
-<dd>Akash K</dd>
-<dt>SRN</dt>
-<dd>Your SRN:02FE23BCS132</dd>
-<dt>Course Instructor:Prof. Vaishali Y. Parab and Ms.Manasi N</dt>
-<dd>Instructor Name Placeholder:</dd>
-<dt>University</dt>
-<dd>Your University Name:KLE TECHNOLOGICAL UNIVERSITY</dd>
-<dt>Waste Management/COMPUTER SCIENCE</dt>
-<dd>BE </dd>
-</dl>
+- DAA (Design and Analysis of Algorithms)  
+- Focus: Algorithmic Problem Solving for Pollution cities  
+
+### 📋 *Details:*
+
+- *Course Name:* Algorithms Lab 
+- *Course Code:* 24ECSP205 
+- *Name:* Akash K
+- *SRN:* 02FE23BCS132
+- *Course Instructor:*Prof. Vaishali Y. Parab 
+- *University:* KLE TECHNOLOGICAL UNIVERSITY
+- *Topic:* Waste Management
+
+---
 
 
 <br> 
