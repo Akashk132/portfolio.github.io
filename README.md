@@ -26,24 +26,25 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/your-github-Akashk132)
 
-## Portfolio Topic
+## Waste Management
 
-<WasteManagement>
-<dt>Course Name</ Algorithms Lab>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>Course Code Placeholder:</24ECSP205>
+<dl>
+<dt>Course Name:Algorithms Lab</dt>
+<dd>Data Structure And Algorithmic </dd>
+<dt>Course Code:24ECSP205</dt>
+<dd>Course Code Placeholder</dd>
 <dt>Name</dt>
-<dd>Your Name:</Akash K>
+<dd>Akash K</dd>
 <dt>SRN</dt>
-<dd>Your SRN:</02FE23BCS132>
-<dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</ Vaishali Y. Parab>
-<dt>University</>
-<dd>Your University Name</KLE TECHNOLOGICAL UNIVERSITY>
-<dt>Portfolio Topic/Domain</Waste Management>
-<dd>Google</dd>
+<dd>Your SRN:02FE23BCS132</dd>
+<dt>Course Instructor:Prof. Vaishali Y. Parab and Ms.Manasi N</dt>
+<dd>Instructor Name Placeholder:</dd>
+<dt>University</dt>
+<dd>Your University Name:KLE TECHNOLOGICAL UNIVERSITY</dd>
+<dt>Waste Management/COMPUTER SCIENCE</dt>
+<dd>BE </dd>
 </dl>
+
 
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
