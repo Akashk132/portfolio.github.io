@@ -45,7 +45,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - SRN: 02FE23BCS132
 - Course Instructor: Prof. Vaishali Y. Parab 
 - University: KLE TECHNOLOGICAL UNIVERSITY
-- Topic: Waste Management
+- Topic: City Sync
 
 ---
 
