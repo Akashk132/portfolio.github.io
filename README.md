@@ -1,4 +1,3 @@
-# portfolio.github.io
 ## Portfolio
 
 ### Hello, I'm Akash K 👋
@@ -33,11 +32,11 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</ Algorithms Lab>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</24ECSP205>
+<dd>Course Code Placeholder:</24ECSP205>
 <dt>Name</dt>
-<dd>Your Name</Akash K>
+<dd>Your Name:</Akash K>
 <dt>SRN</dt>
-<dd>Your SRN</02FE23BCS132>
+<dd>Your SRN:</02FE23BCS132>
 <dt>Course Instructor</dt>
 <dd>Instructor Name Placeholder</ Vaishali Y. Parab>
 <dt>University</>
