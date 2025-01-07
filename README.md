@@ -33,13 +33,13 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ### 📋 *Details:*
 
-- Course Name:* Algorithms Lab 
-- Course Code:* 24ECSP205 
-- Name:* Akash K
-- SRN:* 02FE23BCS132
-- Course Instructor:*Prof. Vaishali Y. Parab 
-- University:* KLE TECHNOLOGICAL UNIVERSITY
-- Topic:* Waste Management
+- Course Name: Algorithms Lab 
+- Course Code: 24ECSP205 
+- Name: Akash K
+- SRN: 02FE23BCS132
+- Course Instructor: Prof. Vaishali Y. Parab 
+- University: KLE TECHNOLOGICAL UNIVERSITY
+- Topic: Waste Management
 
 ---
 
